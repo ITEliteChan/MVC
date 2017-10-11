@@ -1,4 +1,4 @@
-package com.rf.test1;
+package com.rf.test;
 
 import java.util.List;
 
